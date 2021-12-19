@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SCENTIT</string>
+
+    <!--Splash(앱 intro) 페이지-->
+    <string name="text_intro0_1">언제 어디서든</string>
+    <string name="text_intro0_2">내 취향의 향기들을 만나다</string>
+    <string name="text_intro0_3">"센팃"</string>
+
+    <string name="text_intro1">내 향기 취향을 찾아보자</string>
+    <string name="text_intro2">내 취향의 향 제품들이 한 곳에</string>
+    <string name="text_intro3">이런 의미였구나..!</string>
+
+    <string name="desc_intro1">다양한 향에 관한 콘텐츠들과 관련 제품 소식을 들을 수 있어요. 이 중에서 나만의 향을 찾아보세요!</string>
+    <string name="desc_intro2">향수, 헤어바디 케어, 페브릭퍼퓸, 캔들 등 향과 관련된 제품들을 한 곳에 모아놨어요.</string>
+    <string name="desc_intro3">평소 몰랐던 향과 관련된 알쓸신잡 지식들을 모아뒀어요. 이것만 알면 나도 향 마스터!</string>
+
+    <!--Main 페이지-->
+    <string name="text_logo">SCENTIT</string>
+    <string name="text_main1">언제 어디서든</string>
+    <string name="text_main2">내 취향의 향기들을 만나다</string>
+    <string name="text_banner">오늘의 향기 큐레이터</string>
+
+    <!--Shop 페이지-->
+    <string name="shop_sub_titile">🌻 오늘은 어떤 나의 취향을 알게될까?</string>
+    <string name="shop_sub_titile1">🎇 오늘의 인기제품 TOP3</string>
+    <string name="shop_sub_titile2">🎇 블랙프라이데이 세일 모음특집</string>
+    <string name="shop_button1">향수</string>
+    <string name="shop_button2">헤어</string>
+    <string name="shop_button3">캔들</string>
+    <string name="shop_button4">페브릭</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
