@@ -22,7 +22,7 @@
 
     <!--Shop 페이지-->
     <string name="shop_sub_titile">🌻 오늘은 어떤 나의 취향을 알게될까?</string>
-    <string name="shop_sub_titile1">🎇 오늘의 인기제품 TOP3</string>
+    <string name="shop_sub_titile1">🎇 오늘의 인기제품 TOP</string>
     <string name="shop_sub_titile2">🎇 블랙프라이데이 세일 모음특집</string>
     <string name="shop_button1">향수</string>
     <string name="shop_button2">헤어</string>

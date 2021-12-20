@@ -46,5 +46,5 @@ class HomeFragment : Fragment() {
                 layoutManager = viewManager
                 adapter = viewAdapter
             }
-    }
+        }
     }
