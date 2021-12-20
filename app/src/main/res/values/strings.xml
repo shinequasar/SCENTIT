@@ -21,7 +21,7 @@
     <string name="text_banner">오늘의 향기 큐레이터</string>
 
     <!--Shop 페이지-->
-    <string name="shop_sub_titile">🌻 오늘은 어떤 나의 취향을 알게될까?</string>
+    <string name="shop_sub_titile">오늘은 어떤 나의 취향을 알게될까?</string>
     <string name="shop_sub_titile1">🎇 오늘의 인기제품 TOP</string>
     <string name="shop_sub_titile2">🎇 블랙프라이데이 세일 모음특집</string>
     <string name="shop_button1">향수</string>
@@ -29,6 +29,11 @@
     <string name="shop_button3">캔들</string>
     <string name="shop_button4">페브릭</string>
 
+    <string name="shop_banner1">🎉브랜드 기획 30% 세일🎉</string>
+    <string name="shop_banner2">❤블랙프라이데이 기념!❤</string>
+    <string name="shop_banner3">🌻여자향수 기획전</string>
+    <string name="shop_banner4">🎶남자향수 기획전</string>
+    <string name="shop_banner5">❤블프 90% 세일!❤</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
