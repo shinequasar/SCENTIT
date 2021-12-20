@@ -1,6 +1,10 @@
 # ScentIt
 안드로이드 향제품 모음 앱 개발_기말과제
 
+![image](https://user-images.githubusercontent.com/40741363/146795691-b4edebd4-dbd8-4dde-8548-55ba27c108a2.png)
+
+
+
 git convention
 
 |명령어|내용|
